@@ -1,3 +1,5 @@
-Download Enovlutionary Self Driving Cars
-Extract the files
-Run the executable
+1.Download Evolutionary Self Driving Cars.zip
+
+2.Extract the files
+
+3.Run the executable
